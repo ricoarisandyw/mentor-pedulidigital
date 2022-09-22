@@ -168,3 +168,6 @@ reference for finding web design :
 2. https://www.behance.net/
 3. https://id.pinterest.com/dnacreativeshoppe/website-design/
 4. you can find by yourself or maybe from your own project from BE.
+
+Link to Find Logo / Icon : 
+https://www.flaticon.com
