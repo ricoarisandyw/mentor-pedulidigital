@@ -133,16 +133,16 @@ Let's breakdown what this web has :
 Then let's translate it into HTML
 ```html
 <html>
-    <header>
-        <div>Home</div>
-        <div>About</div>
-        <div>Testimonial</div>
-        <div>Contact</div>
-        <img alt="logo" />
-        <button class="login">Login</button>
-        <button class="signup">Sign Up</button>
-    </header>
     <body>
+        <header>
+            <div>Home</div>
+            <div>About</div>
+            <div>Testimonial</div>
+            <div>Contact</div>
+            <img alt="logo" src="https://cdn-icons-png.flaticon.com/512/174/174880.png" />
+            <button class="login">Login</button>
+            <button class="signup">Sign Up</button>
+        </header>
         <div class="jumbotron">
             <h1>Title</h1>
             <p>small description</p>
@@ -162,4 +162,9 @@ Then let's translate it into HTML
 
 
 ## Project
-Find a website that you want to build then create HTML skeleton from that design
+Find a website that you want to build then create HTML skeleton from that design. 
+reference for finding web design : 
+1. https://dribbble.com/
+2. https://www.behance.net/
+3. https://id.pinterest.com/dnacreativeshoppe/website-design/
+4. you can find by yourself or maybe from your own project from BE.
